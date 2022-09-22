@@ -7,3 +7,7 @@
 - [ ] boost
 - [ ] proportional
 - [ ] hoist
+- [ ] weird
+- [ ] scam
+- [ ] lack
+- [ ] upstream
