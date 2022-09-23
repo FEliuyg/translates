@@ -11,3 +11,8 @@
 - [ ] scam
 - [ ] lack
 - [ ] upstream
+- [ ] bump version
+- [ ] generic
+- [ ] announcement
+- [ ] alternatively
+- [ ] capacity
